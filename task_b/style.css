@@ -1,0 +1,37 @@
+
+table{
+  text-align: center;
+}
+tr,th,td{
+  border-style:ridge;
+}
+
+.outbox{
+  padding: 30px;
+  background-image: linear-gradient(to bottom,rgba(105,105,105,0),rgba(105,105,105,1));
+  width: 880px;
+}
+.outerbox{
+  margin-left: 40px;
+
+}
+.widthmanage{
+  width: 360px;
+}
+.fir{
+background-color: #0000ff;
+color: white;
+}
+.sec{
+  background-color:white;
+}
+.third{
+  background-color: #1e90ff;
+  color: white;
+}
+.fou{
+  background-color: #add8e6;
+}
+.fif{
+  background-color: #fafafa;
+}
